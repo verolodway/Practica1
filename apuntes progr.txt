@@ -1,0 +1,26 @@
+git remote url enlazado con la otra cuenta y lo subira a la otra cuentaa
+tiene que desaparecer ese enlace para que quede enlazado con mi repositorio
+cambiando la url en la carpeta config
+o con el comando git remote rm origin (eliminar el enlace) y git remote -v (crear uno nuevo)
+git remote add origin +url
+git remote -v y sale enlazado con mi cuenta de github
+compilar significa cambiar de lenguaje java a lenguaje maquina para poder ejecutarlo
+los void son métodos de los objetos de bluej
+un parametro es lo que esta entre parentesis de los métodos
+hay algunos que no requieren informacion adicional para ejecutarse: los metodos para volver el objeto visible o invisible
+cabezera o firma de un metodo void...
+string = cadena de carácteres
+Parametros enteros y decimales (levantar el brazo)
+parametros con letras (escribir, hablar)y para escribir una cadena de caracteres (string)
+Estado de la figura 5 atributos
+dato boolean es un dato que permite dos valores, verdadero o falso
+tipos de valores 
+entero decimal string booleano
+int, double o float, string, boolean (vivo o muerto)
+char - character
+los metodos pertenecen a la clase,sobra la clase se definen los metodos y se invocan sobre los objetos
+crear clases para resolver problemas, decidir que metodos tienen e invocarlos
+código fuente o código: instrucciones del programa
+; finalizar cada sentencia
+
+
