@@ -22,5 +22,13 @@ los metodos pertenecen a la clase,sobra la clase se definen los metodos y se inv
 crear clases para resolver problemas, decidir que metodos tienen e invocarlos
 código fuente o código: instrucciones del programa
 ; finalizar cada sentencia
+Return values - Valores de retorno : Los metodos pueden devolver valores 
+la cabecera del metodo inidica que devuelve un método void y otros tipos de retorno.
+Decimal - Float
+Numero entero largo  - long
+'a' - Char (un unico caracter)
+
+
+
 
 

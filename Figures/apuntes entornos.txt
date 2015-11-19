@@ -1,0 +1,2 @@
+Algoritmo: Instruciones
+S.O: Programas básicos que hacen funcionar al ordenador y nos permite interactuar con él

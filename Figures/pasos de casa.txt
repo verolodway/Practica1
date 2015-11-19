@@ -1,0 +1,15 @@
+Hgo visible 1
+hago visible 2
+hago visible 3
+hago visible 4
+colo 1
+color 2
+Mover el square 1 150px a la izquierda
+mover el circle1 30px vertical hacia arriba
+cambiar el tamaño de square2 a 30px
+dim 30x100 el triangle
+mover hacia arriba -60px
+mover hacia la izquierda el triangle 85
+mover square2 a la izq 210px
+mover square2 hacia abajo 15px
+14 pasos

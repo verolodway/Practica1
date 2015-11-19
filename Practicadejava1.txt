@@ -1,0 +1,20 @@
+
+Person person1 = new Person();
+Person person2 = new Person();
+Circle circle1 = new Circle();
+Circle circle2 = new Circle();
+person1.makeVisible();
+person2.makeVisible();
+circle1.makeVisible();
+circle2.makeVisible();
+person1.moveHorizontal(28);
+circle1.moveHorizontal(160);
+circle2.moveVertical(140);
+person1.changeSize(40,20);
+person1.moveVertical(15);
+circle2.changeSize(1100);
+circle2.moveHorizontal(-475);
+circle1.changeSize(40);
+circle1.moveVertical(30);
+circle1.changeColor("yellow");
+circle2.changeColor("green");
