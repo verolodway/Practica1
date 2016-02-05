@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class claseVacia here.
+ * Write a description of class Mazo here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class claseVacia
+public class Mazo
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class claseVacia
+     * Constructor for objects of class Mazo
      */
-    public claseVacia()
+    public Mazo()
     {
         // initialise instance variables
         x = 0;

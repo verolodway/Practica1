@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=valor\ palo
+comment0.target=Carta(int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Carta\r\n
+comment1.params=
+comment1.target=void\ getNombre()
+comment1.text=\r\n\ \ devuelve\ una\ cadena\ con\ el\ nombre\ de\ la\ carta.\r\n
+comment2.params=
+comment2.target=int\ getValor()
+comment2.text=\r\n\ retorna\ un\ entero\ con\ el\ valor\ correspondiente\ a\ la\ carta\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getPalo()
+comment3.text=\r\n\ \ retorna\ una\ cadena\ que\ contiene\ el\ palo\ correspondiente\ a\ la\ carta\r\n
+numComments=4
