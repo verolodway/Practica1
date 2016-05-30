@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=potencia\ matricula\ eslora\ annoFabricacion
+comment0.target=EmbarcacionDeportiva(int,\ java.lang.String,\ float,\ int)
+comment1.params=
+comment1.target=int\ getCoeficienteBernua()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
