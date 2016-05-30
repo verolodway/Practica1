@@ -29,7 +29,6 @@ public class Puerto
     
     public void verEstadoAmarres(){
         //muestra el precio del alquiler
-        
     }
     
     public void liquidarAlquiler(int posicion){
